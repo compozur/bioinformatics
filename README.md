@@ -6,6 +6,6 @@ Source code from bioinformatics [videos](https://www.youtube.com/playlist?list=P
 
 * [01 - Counting DNA Nucleotides](https://www.youtube.com/watch?v=IiQHvvbRKs4)
 * [02 - Most Frequent K-Mers](https://www.youtube.com/watch?v=e0axouzfyug)
-* [03 - Reverse Complement](https://www.youtube.com/watch?v=MJZvc31tqJo)
+* [03 - Reverse Complement](https://www.youtube.com/watch?v=hbRwnJP08O8)
 * [04 - Read FASTA Files](https://www.youtube.com/watch?v=DvlVWE59ZG8)
 

@@ -1,6 +1,6 @@
 def reverse_complement(dna_sequence):
     complement = {'A': 'T', 'T': 'A', 'C': 'G', 'G': 'C'}
-    return ''.join([complement[nucleotide] for nucleotide in dna_sequence])
+    return ''.join([complement[nucleotide] for nucleotide in dna_sequence])[::-1]
 
 dna_seq = "AGAGATTCGTTACTAC"
 

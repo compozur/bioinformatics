@@ -10,3 +10,4 @@ def read_fasta(file_path, fmt="fasta"):
             
 fasta_file = "example.fasta"
 read_fasta(fasta_file)
+
